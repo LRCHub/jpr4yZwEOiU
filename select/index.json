@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Shiny Stories",
+  "base_artist": "SHINY COLORS",
+  "createdAt": "2025-12-20T16:34:26.724020Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Shiny Stories",
+      "artist": "シャイニーカラーズ",
+      "has_synced": false,
+      "path": "select/pl_01_Shiny_Stories_シャイニーカラーズ.txt"
+    }
+  ]
+}
